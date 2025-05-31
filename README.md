@@ -55,7 +55,7 @@ It explores GPU parallelism concepts like **blocks, threads, warps, vectorizatio
 
 2. **Launch the notebook**:
    ```bash
-   jupyter notebook triton_softmax.ipynb
+   jupyter notebook GPU_Kernel_using_Triton.ipynb
    ```
 
 3. The notebook:
